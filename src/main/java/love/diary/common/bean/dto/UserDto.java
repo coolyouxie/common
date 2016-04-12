@@ -23,8 +23,6 @@ public class UserDto extends Dto {
 	
 	private String mobilePhone;
 	
-	private 
-
 	public String getName() {
 		return name;
 	}
