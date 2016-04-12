@@ -20,6 +20,10 @@ public class UserDto extends Dto {
 	private Education education;
 	
 	private String email;
+	
+	private String mobilePhone;
+	
+	private 
 
 	public String getName() {
 		return name;
